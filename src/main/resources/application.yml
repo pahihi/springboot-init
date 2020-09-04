@@ -1,0 +1,4 @@
+server:
+  port: 19000
+  servlet:
+    context-path: /demo
